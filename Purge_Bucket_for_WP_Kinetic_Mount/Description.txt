@@ -1,0 +1,1 @@
+The kinetic mount developed by WhoppingPochard interferes with the semi-official purge bucket and nozzle brush.  This derivative of that purge bucket contains the original brush holder and plate stop, while adding a spacer to allow the brush to clear the kinetic mount as well as purge buckets that fit the new bed spacing.
