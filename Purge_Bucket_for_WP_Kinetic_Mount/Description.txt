@@ -1,1 +1,7 @@
-The kinetic mount developed by WhoppingPochard interferes with the semi-official purge bucket and nozzle brush.  This derivative of that purge bucket contains the original brush holder and plate stop, while adding a spacer to allow the brush to clear the kinetic mount as well as purge buckets that fit the new bed spacing.
+The kinetic mount developed by WhoppingPochard interferes with the semi-official purge bucket and nozzle brush from edwardyeeks. 
+( https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber )  
+This derivative of that purge bucket contains the original brush holder and plate stop, while adding a spacer to allow the brush 
+to clear the kinetic mount as well as purge buckets that fit the new bed spacing.
+
+Known issues: 
+1) The large purge bucket must be rotated on its back to print properly.  
