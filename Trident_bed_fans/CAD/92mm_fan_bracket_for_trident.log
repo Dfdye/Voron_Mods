@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: Sunday,May 22,2022 08:23PM
+Output File: C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\92mm_fan_bracket_for_trident.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: 11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz
+Operating System: Windows 10
+Installed Memory: 15.68 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 01

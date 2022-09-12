@@ -1,0 +1,63 @@
+STEP translation to Solid Edge
+Date: Saturday,May 21,2022 10:11PM
+Source File: C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2014
+
+Hardware:
+Processor: 11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz
+Operating System: Windows 10
+Installed Memory: 15.68 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9.asm
+Bodies: 0
+|--+Created SE Part File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9 body.par
+Bodies: 0
+Bodies: 0
+|--+Created SE Part File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9 fan.par
+Bodies: 0
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9_0.asm
+|  |--+Created SE Part File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9 body_0.par
+|  |--+Created SE Part File C:\Users\dfdye\Documents\GitHub\voron_mods\Trident_bed_fans\92mm-case-fan-1.snapshot.2\F9 fan_0.par
+|--+Total Parts: 4
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 1
++Assemblies: 1
++Solid Bodies: 0
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 13
